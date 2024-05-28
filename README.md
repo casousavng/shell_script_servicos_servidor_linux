@@ -1,7 +1,3 @@
-Aqui está a descrição do script em português de Portugal para apresentar no GitHub:
-
----
-
 # Gestor de Serviços para Servidor Virtual
 
 Este script em Bash foi criado para facilitar a gestão de serviços essenciais num servidor virtual, utilizando o `systemd` e a interface gráfica `yad` para proporcionar uma experiência de utilizador intuitiva. Através deste script, é possível iniciar e parar serviços como Docker, MariaDB, Nginx, e PHP-FPM, bem como aceder rapidamente a ferramentas importantes de desenvolvimento e gestão.
@@ -46,7 +42,3 @@ sudo ./gestor_servicos.sh
 ## Nota
 
 Este script foi desenvolvido para simplificar a gestão de serviços num ambiente de servidor virtual, proporcionando uma interface gráfica amigável e acessível. Se encontrar qualquer problema ou tiver sugestões para melhorias, sinta-se à vontade para abrir um "issue" ou "pull request" no repositório.
-
----
-
-Este texto fornece uma apresentação clara e detalhada do script, destacando suas funcionalidades e instruções de uso, pronto para ser adicionado ao GitHub.
